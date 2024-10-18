@@ -1,0 +1,6 @@
+.header__title{
+    position: absolute;
+    width: 730px;
+    left: 64px;
+    z-index: 2;
+  }

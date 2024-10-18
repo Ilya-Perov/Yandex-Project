@@ -1,0 +1,13 @@
+@import url(./__title/techniques__title.css);
+@import url(./__subtitle/techniques__subtitle.css);
+@import url(./__cards/techniques__cards.css);
+
+.techniques{
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}

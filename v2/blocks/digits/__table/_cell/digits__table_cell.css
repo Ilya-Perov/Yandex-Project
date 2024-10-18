@@ -1,0 +1,8 @@
+.digits__table_cell{
+    display: flex;
+    margin: 0;
+    margin-top: 60px;
+    min-width: 250px;
+    width: 250px;
+    flex-direction: column;
+  }

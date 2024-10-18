@@ -1,0 +1,9 @@
+@import url(./__place/_header/logo__place_header.css);
+
+.logo{
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 25px;
+    height: 32px;
+    width: 228px;
+    font-weight: 600;
+  }

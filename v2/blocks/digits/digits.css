@@ -1,0 +1,17 @@
+@import url(./__subtitle/digits__subtitle.css);
+@import url(./__table/digits__table.css);
+@import url(./__table/_cell/digits__table_cell.css);
+@import url(./__table/_heading/digits__table_heading.css);
+@import url(./__table/_text/digits__table_text.css);
+@import url(./__title/digits__title.css);
+
+
+.digits{
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 1100px;
+    margin: auto;
+    margin-top: 100px;
+  }

@@ -1,0 +1,17 @@
+@import url(./__iframe/video__iframe.css);
+@import url(./__subtitle/video__subtitle.css);
+@import url(./__title/video__title.css);
+@import url(./__oakley/_brief/video__oakley_brief.css);
+@import url(./__oakley/_main-text/video__oakley_main-text.css);
+@import url(./__oakley/_paragraph/video__oakley_paragraph.css);
+@import url(./__oakley/_two-columns/video__oakley_two-columns.css);
+@import url(./__oakley/video__oakley.css);
+
+.video{
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}

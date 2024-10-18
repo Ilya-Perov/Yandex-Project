@@ -1,0 +1,13 @@
+.video__oakley{
+    background-color: #f2f2f2;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 1600px;
+    height: 500px;
+    position: absolute;
+    top: 420px;
+    overflow: visible;
+    z-index: -1;
+}

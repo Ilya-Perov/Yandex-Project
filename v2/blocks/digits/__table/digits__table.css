@@ -1,0 +1,8 @@
+.digits__table{
+    display: flex;
+    width: 100%;
+    margin-top: 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }

@@ -1,0 +1,11 @@
+.kaufman__table_theme_dark{
+  z-index: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1050px;
+  margin-bottom: 90px;
+}
