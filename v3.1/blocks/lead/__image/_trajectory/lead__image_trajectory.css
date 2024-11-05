@@ -1,0 +1,11 @@
+.lead__image_trajectory{
+    background-image: url("../../../../images/Group\ 4.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    z-index: 1;
+    overflow: visible;
+    width: 95%;
+    height: 40%;
+    margin: auto;
+    margin-top: 5%;
+}

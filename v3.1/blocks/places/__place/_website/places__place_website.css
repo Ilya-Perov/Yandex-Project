@@ -1,0 +1,11 @@
+.places__place_website{
+    grid-area: url;
+    max-height: max-content;
+    max-width: max-content;
+    min-height: min-content;
+    min-width: min-content;
+    text-align: left;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: start;
+}

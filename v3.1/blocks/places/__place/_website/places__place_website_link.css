@@ -1,0 +1,10 @@
+.places__place_website_link{
+    color: white;
+}
+.places__place_website_link:link{
+    color: white;
+}
+
+.places__place_website_link:visited{
+    color: white;
+}

@@ -1,0 +1,7 @@
+.places__place_title{
+    grid-area: title;
+    height: 100%;
+    max-width: min-content;
+    font-size: calc(32px + 2.5vw);
+    font-weight: 600;
+}
