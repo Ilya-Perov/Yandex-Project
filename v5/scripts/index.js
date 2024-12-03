@@ -250,12 +250,12 @@ profilePopupDescriptionInput.addEventListener("input", function(evt){
 const popupsList = document.querySelectorAll(".popup");
 
 for (let i = 0; i < popupsList.length; i++){
-  popupsList[i].addEventListener("keydown", function(evt){
-    if (evt.key === "Escape"){
-      popupsList[i].classList.remove("popup_is-opened");
-    }
-  });
   popupsList[i].addEventListener("click", function(evt){
     evt.target.classList.remove("popup_is-opened");
   });
 }
+document.addEventListener('keydown', function(evt){
+  for (let i = 0; i < popupsList.length; i++){
+    popupsList[i].classList.remove("popup_is-opened");
+  }
+});
