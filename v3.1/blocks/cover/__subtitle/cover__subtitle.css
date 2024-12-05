@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cover__subtitle{
     min-width: 288px;
     min-height: 48px;
@@ -11,4 +12,19 @@
     text-align: center;
     text-shadow: 0px 2px 2px black;
     z-index: 2;
+=======
+.cover__subtitle{
+    min-width: 288px;
+    min-height: 48px;
+    max-width: 360px;
+    max-height: 66px;
+    align-self: center;
+    margin-top: 3%;
+    margin-bottom: 20%;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-shadow: 0px 2px 2px black;
+    z-index: 2;
+>>>>>>> 928195e9 (First commit)
 }

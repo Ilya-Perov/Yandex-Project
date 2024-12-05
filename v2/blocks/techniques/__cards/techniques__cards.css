@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(./_item/_decription/techniques__cards_item_description/techniques__cards_item_description.css);
 @import url(./_item/_image/techniques__cards_item_image.css);
 @import url(./_item/techniques__cards_item_title/techniques__cards_item_title.css);
@@ -10,3 +11,17 @@
     width: 920px;
 }
 
+=======
+@import url(./_item/_decription/techniques__cards_item_description/techniques__cards_item_description.css);
+@import url(./_item/_image/techniques__cards_item_image.css);
+@import url(./_item/techniques__cards_item_title/techniques__cards_item_title.css);
+@import url(./_item/techniques__cards_item.css);
+
+.techniques__cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 920px;
+}
+
+>>>>>>> 928195e9 (First commit)

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer__columns{
     display: flex;
     flex-direction: row;
@@ -6,4 +7,14 @@
     margin-top: 60px;
     margin-bottom: 40px;  
     position: relative;
+=======
+.footer__columns{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90%;
+    margin-top: 60px;
+    margin-bottom: 40px;  
+    position: relative;
+>>>>>>> 928195e9 (First commit)
   }

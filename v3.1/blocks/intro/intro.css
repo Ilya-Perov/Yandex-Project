@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(./__list/intro__list.css);
 @import url(./__text/intro__text.css);
 @import url(./__title/intro__title.css);
@@ -8,4 +9,16 @@
     max-width: 690px;
     max-height: 754px;
     margin-top: 6%;    
+=======
+@import url(./__list/intro__list.css);
+@import url(./__text/intro__text.css);
+@import url(./__title/intro__title.css);
+
+.intro{
+    min-width: 288px;
+    min-height: 429px;
+    max-width: 690px;
+    max-height: 754px;
+    margin-top: 6%;    
+>>>>>>> 928195e9 (First commit)
 }

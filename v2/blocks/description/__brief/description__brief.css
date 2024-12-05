@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .description__brief{
     display: flex;
     width: 175px;
@@ -5,4 +6,13 @@
     font-size: 18px;;
     margin-top: 0;
   }
+=======
+.description__brief{
+    display: flex;
+    width: 175px;
+    color:  #2f80ed;
+    font-size: 18px;;
+    margin-top: 0;
+  }
+>>>>>>> 928195e9 (First commit)
   

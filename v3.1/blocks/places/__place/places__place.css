@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(./_image/places__place_image.css);
 @import url(./_paragraph/places__place_paragraph.css);
 @import url(./_title/places__place_title.css);
@@ -28,4 +29,36 @@
         "title url"
         "image paragraph";
     }
+=======
+@import url(./_image/places__place_image.css);
+@import url(./_paragraph/places__place_paragraph.css);
+@import url(./_title/places__place_title.css);
+@import url(./_website/places__place_website_link.css);
+@import url(./_website/places__place_website_url-heading.css);
+@import url(./_website/places__place_website.css);
+
+.places__place{
+    margin-top: 6%;
+    gap: 10px;
+}
+
+@media screen and (width <= 700px) {
+    .places__place{
+        display: flex;
+        flex-direction: column;
+    }
+    .places__place_image{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media screen and (width > 700px) {
+    .places__place{
+        display: grid;
+        grid-template-areas: 
+        "title url"
+        "image paragraph";
+    }
+>>>>>>> 928195e9 (First commit)
 }

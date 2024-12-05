@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .description__paragraph{
     margin-bottom: 30px;
 }
 
 .description__paragraph:nth-of-type(3){
     margin-bottom: 0px;
+=======
+.description__paragraph{
+    margin-bottom: 30px;
+}
+
+.description__paragraph:nth-of-type(3){
+    margin-bottom: 0px;
+>>>>>>> 928195e9 (First commit)
 }

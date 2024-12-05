@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .video__oakley_two-columns{
   width: 80%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+=======
+.video__oakley_two-columns{
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+>>>>>>> 928195e9 (First commit)
 }

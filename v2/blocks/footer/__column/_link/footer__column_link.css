@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer__column_link{
     height: 30px;
     font-size: 18px;
@@ -10,3 +11,17 @@
   opacity: 0.3;
   transition: opacity 1.3s ease;
 }
+=======
+.footer__column_link{
+    height: 30px;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    opacity: 1;
+  }
+
+.footer__column_link:hover{
+  opacity: 0.3;
+  transition: opacity 1.3s ease;
+}
+>>>>>>> 928195e9 (First commit)

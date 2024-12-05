@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer__copyright{
     text-align: right;
     width: 100%;
@@ -7,4 +8,15 @@
     .footer__copyright{
         text-align: left;
     }
+=======
+.footer__copyright{
+    text-align: right;
+    width: 100%;
+}
+
+@media screen  and (width < 700px){
+    .footer__copyright{
+        text-align: left;
+    }
+>>>>>>> 928195e9 (First commit)
 }

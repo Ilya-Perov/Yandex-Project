@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 .footer__column-links{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+=======
+.footer__column-links{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+>>>>>>> 928195e9 (First commit)
   }

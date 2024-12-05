@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(./__place/places__place.css);
 
 .place{
@@ -5,3 +6,12 @@
     flex-direction: column;
     margin-top: 2%;
 }
+=======
+@import url(./__place/places__place.css);
+
+.place{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+}
+>>>>>>> 928195e9 (First commit)

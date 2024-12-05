@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .intro__text{
     font-size: 16px;
     line-height: 1.63;
     margin-top: 40px;
     min-width: minmax(min-content, max-content);
+=======
+.intro__text{
+    font-size: 16px;
+    line-height: 1.63;
+    margin-top: 40px;
+    min-width: minmax(min-content, max-content);
+>>>>>>> 928195e9 (First commit)
 }

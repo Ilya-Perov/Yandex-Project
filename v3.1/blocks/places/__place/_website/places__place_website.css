@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .places__place_website{
     grid-area: url;
     max-height: max-content;
@@ -8,4 +9,16 @@
     display: flex;
     flex-direction: column-reverse;
     align-items: start;
+=======
+.places__place_website{
+    grid-area: url;
+    max-height: max-content;
+    max-width: max-content;
+    min-height: min-content;
+    min-width: min-content;
+    text-align: left;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: start;
+>>>>>>> 928195e9 (First commit)
 }

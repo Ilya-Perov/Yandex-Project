@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(./__link/resources__link.css);
 @import url(./__logo-zone/resources__logo-zone.css);
 @import url(./__subtitle/resources__subtitle.css);
@@ -9,4 +10,17 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+=======
+@import url(./__link/resources__link.css);
+@import url(./__logo-zone/resources__logo-zone.css);
+@import url(./__subtitle/resources__subtitle.css);
+@import url(./__title/resources__title.css);
+
+.resources{
+    margin-top: 100px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+>>>>>>> 928195e9 (First commit)
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer__link{
     margin-right: 18px;
     color: white;
@@ -21,4 +22,29 @@
         margin: 0;
         margin-bottom: 32px;
     }
+=======
+.footer__link{
+    margin-right: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+.footer__link:link{
+    margin-right: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+.footer__link:visited{
+    margin-right: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+@media screen and (width <=700px) {
+    .footer__link{
+        margin: 0;
+        margin-bottom: 32px;
+    }
+>>>>>>> 928195e9 (First commit)
 }

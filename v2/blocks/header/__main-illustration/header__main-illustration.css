@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .header__main-illustration{
     height: 608px;
@@ -7,3 +8,14 @@
     bottom: 0;
     z-index: 1;
   }
+=======
+
+.header__main-illustration{
+    height: 608px;
+    width: 765px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+  }
+>>>>>>> 928195e9 (First commit)

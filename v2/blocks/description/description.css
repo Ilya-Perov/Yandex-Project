@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(./__brief/description__brief.css);
 @import url(./__main-text/description__main-text.css);
 @import url(./__paragraph/description__paragraph.css);
@@ -11,4 +12,19 @@
     margin: auto;
     margin-top: 100px;
     width: 80%;
+=======
+@import url(./__brief/description__brief.css);
+@import url(./__main-text/description__main-text.css);
+@import url(./__paragraph/description__paragraph.css);
+@import url(./__span-accent/description__span-accent.css);
+@import url(./__two-columns/description__two-columns.css);
+
+
+.description{
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    display: flex;
+    margin: auto;
+    margin-top: 100px;
+    width: 80%;
+>>>>>>> 928195e9 (First commit)
   }

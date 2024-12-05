@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .khan__buy-link {
     opacity: 1;
     line-height: 42px;
@@ -9,4 +10,17 @@
 .khan__buy-link:hover{
     opacity: 0.3;
     transition: opacity 1.3s ease;
+=======
+.khan__buy-link {
+    opacity: 1;
+    line-height: 42px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #2f80ed;
+}
+
+.khan__buy-link:hover{
+    opacity: 0.3;
+    transition: opacity 1.3s ease;
+>>>>>>> 928195e9 (First commit)
 }

@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .techniques__title{
     width: 60%;
     text-align: center;
     font-size: 60px;
     line-height: 1.15;
     font-weight: 600;
+=======
+.techniques__title{
+    width: 60%;
+    text-align: center;
+    font-size: 60px;
+    line-height: 1.15;
+    font-weight: 600;
+>>>>>>> 928195e9 (First commit)
 }

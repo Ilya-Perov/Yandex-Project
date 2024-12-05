@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 .khan__book-container{
     margin-top: 68px;
     display: flex;
     flex-direction: row;
+=======
+.khan__book-container{
+    margin-top: 68px;
+    display: flex;
+    flex-direction: row;
+>>>>>>> 928195e9 (First commit)
 }

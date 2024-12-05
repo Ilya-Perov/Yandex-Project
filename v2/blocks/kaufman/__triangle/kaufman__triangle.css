@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(../../rotation/rotation.css);
 
 .kaufman__triangle{
@@ -7,4 +8,15 @@
     top: 0;
     right: -210px;
     animation: rotation 20s linear infinite;
+=======
+@import url(../../rotation/rotation.css);
+
+.kaufman__triangle{
+    z-index: 0;
+    width: 877px;
+    position: absolute;
+    top: 0;
+    right: -210px;
+    animation: rotation 20s linear infinite;
+>>>>>>> 928195e9 (First commit)
   }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .digits__table{
     display: flex;
     width: 100%;
@@ -5,4 +6,13 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+=======
+.digits__table{
+    display: flex;
+    width: 100%;
+    margin-top: 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+>>>>>>> 928195e9 (First commit)
   }

@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .techniques__cards_item_image{
     margin-top: 60px;
     border-radius: 50%;
     margin-left: 40px;
     margin-right: 40px;
     overflow: hidden;
+=======
+.techniques__cards_item_image{
+    margin-top: 60px;
+    border-radius: 50%;
+    margin-left: 40px;
+    margin-right: 40px;
+    overflow: hidden;
+>>>>>>> 928195e9 (First commit)
 }

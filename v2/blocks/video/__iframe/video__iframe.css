@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .video__iframe{
     display: flex;
     width: 1050px;
@@ -7,4 +8,15 @@
     justify-content: space-between;
     align-items: center;
     z-index: 1;
+=======
+.video__iframe{
+    display: flex;
+    width: 1050px;
+    margin: auto;
+    margin-top: 50px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+>>>>>>> 928195e9 (First commit)
 }

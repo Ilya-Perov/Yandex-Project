@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .khan__quote{
     width: 790px;
     margin-top:50px;
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;
+=======
+.khan__quote{
+    width: 790px;
+    margin-top:50px;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+>>>>>>> 928195e9 (First commit)
 }

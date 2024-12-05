@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(./__title/lead__title.css);
 @import url(./__subtitle/lead__subtitle.css);
 @import url(./__image/lead__image.css);
@@ -12,4 +13,20 @@
     min-height: 406px;
     max-height: 1005px;
     align-self: center;
+=======
+@import url(./__title/lead__title.css);
+@import url(./__subtitle/lead__subtitle.css);
+@import url(./__image/lead__image.css);
+@import url(./__caption/lead__caption.css);
+
+.lead{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 408px;
+    max-width: 984px;
+    min-height: 406px;
+    max-height: 1005px;
+    align-self: center;
+>>>>>>> 928195e9 (First commit)
 }

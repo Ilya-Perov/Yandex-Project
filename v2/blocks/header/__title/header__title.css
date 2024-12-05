@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .header__title{
     position: absolute;
     width: 730px;
     left: 64px;
     z-index: 2;
+=======
+.header__title{
+    position: absolute;
+    width: 730px;
+    left: 64px;
+    z-index: 2;
+>>>>>>> 928195e9 (First commit)
   }

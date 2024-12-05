@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header__link{
     text-decoration: none;
     opacity: 1;
@@ -7,4 +8,15 @@
 .header__link:hover{
   opacity: 0.3;
   transition: opacity 1.3s ease;
+=======
+.header__link{
+    text-decoration: none;
+    opacity: 1;
+    color: #2f80ed;
+}
+
+.header__link:hover{
+  opacity: 0.3;
+  transition: opacity 1.3s ease;
+>>>>>>> 928195e9 (First commit)
 }

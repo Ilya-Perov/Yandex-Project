@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .kaufman__subtitle_theme_dark{
   z-index: 1;
   text-align: center;
@@ -5,4 +6,13 @@
   width: 60%;
   height: 34px;
   font-size: 24px;
+=======
+.kaufman__subtitle_theme_dark{
+  z-index: 1;
+  text-align: center;
+  margin-top: 20px;
+  width: 60%;
+  height: 34px;
+  font-size: 24px;
+>>>>>>> 928195e9 (First commit)
 }

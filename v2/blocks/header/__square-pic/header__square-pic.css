@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(../../rotation/rotation.css);
 
 
@@ -10,4 +11,18 @@
     bottom: 0;
     background-color: blue;
     animation: rotation 20s linear infinite;
+=======
+@import url(../../rotation/rotation.css);
+
+
+.header__square-pic {
+    height: 568px;
+    width: 568px;
+    position: absolute;
+    top: 64px;
+    right: 0;
+    bottom: 0;
+    background-color: blue;
+    animation: rotation 20s linear infinite;
+>>>>>>> 928195e9 (First commit)
   }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(../vendor/normalize.css);
 @import url(../blocks/body/body.css);
 @import url(../blocks/header/header.css);
@@ -27,4 +28,35 @@
 .page{
     margin: auto;
     
+=======
+@import url(../vendor/normalize.css);
+@import url(../blocks/body/body.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/places/place.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/footer/footer.css);
+
+@media screen and (width <= 325px)  {
+    .page{
+        max-width: 425px;
+    }
+    .lead__subtitle{
+        margin-top: 16px;
+    }
+    .lead__image{
+        width: 100%;
+    }
+    .intro__title{
+        font-size: 32px;
+        line-height: 35px;
+    }
+
+}
+.page{
+    margin: auto;
+    
+>>>>>>> 928195e9 (First commit)
 }

@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .lead__caption{
     align-self: flex-start;
     font-size: 10px;
     line-height: 14px;
     letter-spacing: 1.5px;
+=======
+.lead__caption{
+    align-self: flex-start;
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: 1.5px;
+>>>>>>> 928195e9 (First commit)
 }

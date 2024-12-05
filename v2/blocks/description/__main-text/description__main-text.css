@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .description__main-text{
     display: flex;
     width: 80%;
     min-width: 784px;
     flex-direction: column;
     font-size: 24px;
+=======
+.description__main-text{
+    display: flex;
+    width: 80%;
+    min-width: 784px;
+    flex-direction: column;
+    font-size: 24px;
+>>>>>>> 928195e9 (First commit)
   }

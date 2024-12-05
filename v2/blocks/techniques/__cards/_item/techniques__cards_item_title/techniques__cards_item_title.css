@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .techniques__cards_item_title{
     margin-top: 43px;
     line-height: 1.15;
@@ -5,4 +6,13 @@
     font-weight: 600;
     text-align: center;
     overflow: hidden;
+=======
+.techniques__cards_item_title{
+    margin-top: 43px;
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    overflow: hidden;
+>>>>>>> 928195e9 (First commit)
 }

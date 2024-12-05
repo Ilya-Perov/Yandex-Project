@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .places__place_paragraph{
     grid-area: paragraph;
     max-width: 484px;
@@ -5,4 +6,13 @@
     line-height: 1.63;
     font-size: 16px;
     padding-right: 12px;
+=======
+.places__place_paragraph{
+    grid-area: paragraph;
+    max-width: 484px;
+    margin-top: 48px;
+    line-height: 1.63;
+    font-size: 16px;
+    padding-right: 12px;
+>>>>>>> 928195e9 (First commit)
 }

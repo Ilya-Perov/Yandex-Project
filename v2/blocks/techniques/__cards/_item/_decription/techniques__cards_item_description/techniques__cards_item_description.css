@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .techniques__cards_item_description{
     text-align: center;
     margin-top: 16px;
     line-height: 23px;
     font-size: 18px;
     font-weight: normal;
+=======
+.techniques__cards_item_description{
+    text-align: center;
+    margin-top: 16px;
+    line-height: 23px;
+    font-size: 18px;
+    font-weight: normal;
+>>>>>>> 928195e9 (First commit)
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .feynman__title{
     width: 648px;
     height: 1.15;
@@ -5,4 +6,13 @@
     text-align: center;
     font-weight: 600;
     z-index: 1;
+=======
+.feynman__title{
+    width: 648px;
+    height: 1.15;
+    font-size: 120px;
+    text-align: center;
+    font-weight: 600;
+    z-index: 1;
+>>>>>>> 928195e9 (First commit)
   }
