@@ -1,0 +1,44 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/inter.css);
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+
+@import url(../blocks/profile/profile.css);
+@import url(../blocks/profile/__about/profile__about.css);
+@import url(../blocks/profile/__avatar/profile__avatar.css);
+@import url(../blocks/profile/__edit/profile__edit.css);
+@import url(../blocks/profile/__info/profile__info.css);
+@import url(../blocks/profile/__name/profile__name.css);
+@import url(../blocks/profile/__add/profile__add.css);
+@import url(../blocks/profile/__card/profile__card.css);
+
+@import url(../blocks/grid-zona/grid-zona.css);
+
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__delete/card__delete.css);
+@import url(../blocks/card/__info/card__info.css);
+@import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card/__like/card__like.css);
+@import url(../blocks/card/__like/_active/card__like_active.css);
+@import url(../blocks/card/__name-place/card__name-place.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/__card-image/popup__card-image.css);
+@import url(../blocks/popup/__card-title/popup__card-title.css);
+@import url(../blocks/popup/__card/popup__card.css);
+@import url(../blocks/popup/_foolscreen-card/popup_fullscreen-card.css);
+@import url(../blocks/popup/_opened/popup_opened.css);
+@import url(../blocks/popup/__container/popup__container.css);
+@import url(../blocks/popup/__title/popup__title.css);
+@import url(../blocks/popup/__save/popup__save.css);
+@import url(../blocks/popup/__item/popup__item.css);
+@import url(../blocks/popup/__item/_type_error/popup__item_type_error.css);
+@import url(../blocks/popup/__close/popup__close.css);
+@import url(../blocks/popup/__item-error/popup__item-error.css);
+@import url(../blocks/popup/__wraper/popup__wraper.css);
+

@@ -168,6 +168,7 @@ newCardPopupTitleInput.addEventListener('input', function(evt){ //Валидац
 
 newCardPopupUrlInput.addEventListener("input", function(evt){ //Валидация ссылки
     if (!evt.target.validity.valid){
+        console.log(evt.target.validity);
         evt.target.classList.add("popup__input-invalid");
         cardAddButton.classList.add("popup__button_inactive");
         cardAddButton.disabled = true;

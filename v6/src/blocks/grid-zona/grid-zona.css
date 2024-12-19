@@ -1,0 +1,15 @@
+.grid-zona{
+    max-width: 880px;
+    margin: 0 auto 67px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 282px);
+    gap: 20px 17px;
+    padding: 0 19px;
+    justify-content: center;
+    min-height: 35vh;
+}
+@media screen and (max-width:700px) {
+    .grid-zona{
+        margin-bottom: 50px;
+    }
+}

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .cover__overlay{
     position: absolute;
     width: 100%;
@@ -9,16 +8,4 @@
 
 .cover:hover .cover__overlay{
     opacity: 0.5;
-=======
-.cover__overlay{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background-color: #2A2C2F;
-    opacity: 0;
-}
-
-.cover:hover .cover__overlay{
-    opacity: 0.5;
->>>>>>> 928195e9 (First commit)
 }

@@ -1,0 +1,24 @@
+.profile__avatar{
+    height: 120px;
+    width: 120px;
+    background-size: cover;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.profile__avatar::after {
+    content: '';
+    transition: all 400ms ease-in-out;
+    width: 100%;
+    display: block;
+    background-position: bottom;
+    background-size: 26px;
+    background-repeat: no-repeat;
+    background-image: url(../../../images/pen.svg);
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.profile__avatar:hover.profile__avatar::after {
+    background-position: center;
+    height: 100%;
+}

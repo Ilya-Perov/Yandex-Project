@@ -1,0 +1,20 @@
+.card__like{
+height: 19px;
+width: 22px;
+background-image: url(../../../images/like.svg);
+border: 0;
+background-color: #fff;
+transform: translateY(-8px);
+}
+
+.card__like:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.card__like::after {
+    display: block;
+    content: attr(data-like);
+    font-size: 13px;
+    transform: translateY(18px);
+}
